@@ -25,7 +25,7 @@ Cada región trae tres archivos:
 Se arman a partir de los extractos de [Geofabrik](https://download.geofabrik.de/) con
 [Planetiler](https://github.com/onthegomap/planetiler) y los scripts de LiteDash. Hoy: **México** (32 estados),
 **Estados Unidos** (50 estados, Washington D. C. y Puerto Rico), **Canadá** (10 provincias y 3 territorios),
-**Colombia** (33 departamentos), **Ecuador** (24 provincias), **Perú** (24 departamentos y el Callao) y **Chile** (16 regiones). ¿Falta tu país? Pídelo desde LiteDash o abre un issue.
+**Colombia** (33 departamentos), **Ecuador** (24 provincias), **Perú** (24 departamentos y el Callao), **Chile** (16 regiones) y **Argentina** (23 provincias y la Ciudad de Buenos Aires). ¿Falta tu país? Pídelo desde LiteDash o abre un issue.
 
 ---
 
@@ -34,7 +34,7 @@ Android car head units. **This repo doesn't hold the app**, only the data the ap
 region, published in [Releases](https://github.com/IrvingGuerra/litedash-maps/releases). Each region has a map
 (`.pmtiles`), the streets for offline routing (`.ldm`) and an offline search index (`.srch`). Available today:
 **Mexico** (32 states), the **United States** (50 states, Washington, D.C. and Puerto Rico), **Canada** (10 provinces
-and 3 territories), **Colombia** (33 departments), **Ecuador** (24 provinces), **Peru** (24 departments and Callao) and **Chile** (16 regions).
+and 3 territories), **Colombia** (33 departments), **Ecuador** (24 provinces), **Peru** (24 departments and Callao), **Chile** (16 regions) and **Argentina** (23 provinces and the City of Buenos Aires).
 
 ## Atribución y licencia · Attribution and license
 
