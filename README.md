@@ -25,7 +25,7 @@ Cada región trae tres archivos:
 Se arman a partir de los extractos de [Geofabrik](https://download.geofabrik.de/) con
 [Planetiler](https://github.com/onthegomap/planetiler) y los scripts de LiteDash. Hoy: **México** (32 estados),
 **Estados Unidos** (50 estados, Washington D. C. y Puerto Rico), **Canadá** (10 provincias y 3 territorios),
-**Colombia** (33 departamentos), **Ecuador** (24 provincias), **Perú** (24 departamentos y el Callao), **Chile** (16 regiones), **Argentina** (23 provincias y la Ciudad de Buenos Aires), **Venezuela** (23 estados, Caracas y las Dependencias Federales), **Bolivia** (9 departamentos), **Paraguay** (17 departamentos y Asunción), **Nicaragua** (17), **Costa Rica** (7 provincias), **El Salvador** (14 departamentos), **Brasil** (26 estados y el Distrito Federal) y **España** (47 provincias peninsulares, Baleares y Melilla). ¿Falta tu país? Pídelo desde LiteDash o abre un issue.
+**Colombia** (33 departamentos), **Ecuador** (24 provincias), **Perú** (24 departamentos y el Callao), **Chile** (16 regiones), **Argentina** (23 provincias y la Ciudad de Buenos Aires), **Venezuela** (23 estados, Caracas y las Dependencias Federales), **Bolivia** (9 departamentos), **Paraguay** (17 departamentos y Asunción), **Nicaragua** (17), **Costa Rica** (7 provincias), **El Salvador** (14 departamentos), **Brasil** (26 estados y el Distrito Federal), **España** (47 provincias peninsulares, Baleares y Melilla) e **Italia** (20 regiones). ¿Falta tu país? Pídelo desde LiteDash o abre un issue.
 
 ---
 
@@ -34,7 +34,7 @@ Android car head units. **This repo doesn't hold the app**, only the data the ap
 region, published in [Releases](https://github.com/IrvingGuerra/litedash-maps/releases). Each region has a map
 (`.pmtiles`), the streets for offline routing (`.ldm`) and an offline search index (`.srch`). Available today:
 **Mexico** (32 states), the **United States** (50 states, Washington, D.C. and Puerto Rico), **Canada** (10 provinces
-and 3 territories), **Colombia** (33 departments), **Ecuador** (24 provinces), **Peru** (24 departments and Callao), **Chile** (16 regions), **Argentina** (23 provinces and the City of Buenos Aires), **Venezuela** (23 states, Caracas and the Federal Dependencies), **Bolivia** (9 departments), **Paraguay** (17 departments and Asunción), **Nicaragua** (17), **Costa Rica** (7 provinces), **El Salvador** (14 departments), **Brazil** (26 states and the Federal District) and **Spain** (47 mainland provinces, the Balearic Islands and Melilla).
+and 3 territories), **Colombia** (33 departments), **Ecuador** (24 provinces), **Peru** (24 departments and Callao), **Chile** (16 regions), **Argentina** (23 provinces and the City of Buenos Aires), **Venezuela** (23 states, Caracas and the Federal Dependencies), **Bolivia** (9 departments), **Paraguay** (17 departments and Asunción), **Nicaragua** (17), **Costa Rica** (7 provinces), **El Salvador** (14 departments), **Brazil** (26 states and the Federal District), **Spain** (47 mainland provinces, the Balearic Islands and Melilla) and **Italy** (20 regions).
 
 ## Atribución y licencia · Attribution and license
 
